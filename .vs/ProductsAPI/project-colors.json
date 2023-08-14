@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf310f29-ac92-4c32-a3e8-938e1369f7fd": {
+      "ProjectGuid": "bf310f29-ac92-4c32-a3e8-938e1369f7fd",
+      "DisplayName": "ProductsAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
